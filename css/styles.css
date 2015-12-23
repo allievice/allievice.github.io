@@ -94,6 +94,17 @@ a {
   color: inherit;
 }
 
+.post-link:nth-child(4n+4) {
+  border-color: green;
+  border-style: outset;
+}
+
+.post-link:nth-child(4n+4):hover {
+  background: green;
+  color: inherit;
+  border: 2px outset white;
+}
+
 .post-body {
   line-height: 1.3em;
   max-width: 700px;
@@ -118,11 +129,11 @@ a {
 }
 
 .post-body a:nth-of-type(4n+3) {
-  color: green;
+  color: yellow;
 }
 
 .post-body a:nth-of-type(4n+4) {
-  color: purple;
+  color: green;
 }
 
 
