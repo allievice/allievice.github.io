@@ -52,11 +52,11 @@ a {
   max-width: 400px;
   padding: 20px 30px;
   margin-bottom: 10px;
-  border: 2px dotted red;
+  border: 2px dotted mediumslateblue;
 }
 
 .post-link:hover {
-  background: red;
+  background: mediumslateblue;
   color: white;
   border: 2px dotted white;
 }
@@ -117,7 +117,7 @@ a {
 }
 
 .post-body a:nth-of-type(5n) {
-  color: red;
+  color: mediumslateblue;
 }
 
 .post-body a:nth-of-type(5n+1) {
