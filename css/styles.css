@@ -52,7 +52,7 @@ a {
   max-width: 400px;
   padding: 20px 30px;
   margin-bottom: 10px;
-  border: 2px dotted red;
+  border: 2px dotted MediumSlateBlue;
 }
 
 .post-link:hover {
@@ -86,7 +86,7 @@ a {
 
 .post-link:nth-child(5n+3) {
   border-color: yellow;
-  border-style: groove;
+  border: 2px dotted yellow;
 }
 
 .post-link:nth-child(5n+3):hover {
