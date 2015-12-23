@@ -61,46 +61,46 @@ a {
   border: 2px dotted white;
 }
 
-.post-link:nth-child(4n+1) {
+.post-link:nth-child(5n+1) {
   border-color: aqua;
   border-style: outset;
 }
 
-.post-link:nth-child(4n+1):hover {
+.post-link:nth-child(5n+1):hover {
   background: aqua;
   color: inherit;
   border: 2px outset white;
 }
 
-.post-link:nth-child(4n+2) {
+.post-link:nth-child(5n+2) {
   border-color: magenta;
   border-style: solid;
   border-width: 1px;
   box-shadow: 0 0 0 1px white, 0 0 0 2px magenta;
 }
 
-.post-link:nth-child(4n+2):hover {
+.post-link:nth-child(5n+2):hover {
   background: magenta;
   color: white;
 }
 
-.post-link:nth-child(4n+3) {
+.post-link:nth-child(5n+3) {
   border-color: yellow;
   border-style: groove;
 }
 
-.post-link:nth-child(4n+3):hover {
+.post-link:nth-child(5n+3):hover {
   background: yellow;
   color: inherit;
 }
 
-.post-link:nth-child(4n+4) {
-  border-color: green;
+.post-link:nth-child(5n+4) {
+  border-color: lime;
   border-style: outset;
 }
 
-.post-link:nth-child(4n+4):hover {
-  background: green;
+.post-link:nth-child(5n+4):hover {
+  background: lime;
   color: inherit;
   border: 2px outset white;
 }
@@ -116,24 +116,24 @@ a {
   margin-bottom: 10px;
 }
 
-.post-body a:nth-of-type(4n) {
+.post-body a:nth-of-type(5n) {
   color: red;
 }
 
-.post-body a:nth-of-type(4n+1) {
+.post-body a:nth-of-type(5n+1) {
   color: magenta;
 }
 
-.post-body a:nth-of-type(4n+2) {
+.post-body a:nth-of-type(5n+2) {
   color: blue;
 }
 
-.post-body a:nth-of-type(4n+3) {
+.post-body a:nth-of-type(5n+3) {
   color: yellow;
 }
 
-.post-body a:nth-of-type(4n+4) {
-  color: green;
+.post-body a:nth-of-type(5n+4) {
+  color: lime;
 }
 
 
