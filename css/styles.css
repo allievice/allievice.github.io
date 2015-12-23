@@ -85,7 +85,8 @@ a {
 }
 
 .post-link:nth-child(5n+3) {
-  border: 2px dotted dashed solid double yellow;
+ border-color: yellow;
+ border-style: 2px dotted dashed solid double;
 }
 
 .post-link:nth-child(5n+3):hover {
