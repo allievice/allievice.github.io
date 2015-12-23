@@ -86,7 +86,7 @@ a {
 
 .post-link:nth-child(5n+3) {
  border-color: yellow;
- border-style: dotted dashed solid double;
+ border-style: dashed;
  border-width: 2px;
 }
 
