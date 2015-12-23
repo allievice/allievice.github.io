@@ -63,13 +63,13 @@ a {
 
 .post-link:nth-child(5n+1) {
   border-color: aqua;
-  border-style: outset;
+  border-style: inset;
 }
 
 .post-link:nth-child(5n+1):hover {
   background: aqua;
   color: inherit;
-  border: 2px outset white;
+  border: 2px inset white;
 }
 
 .post-link:nth-child(5n+2) {
@@ -86,7 +86,7 @@ a {
 
 .post-link:nth-child(5n+3) {
   border-color: yellow;
-  border-style: groove;
+  border-style: dotted dashed solid double;
 }
 
 .post-link:nth-child(5n+3):hover {
