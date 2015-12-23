@@ -95,12 +95,12 @@ a {
 }
 
 .post-link:nth-child(5n+4) {
-  border-color: lime;
+  border-color: red;
   border-style: outset;
 }
 
 .post-link:nth-child(5n+4):hover {
-  background: lime;
+  background: red;
   color: inherit;
   border: 2px outset white;
 }
@@ -133,7 +133,7 @@ a {
 }
 
 .post-body a:nth-of-type(5n+4) {
-  color: lime;
+  color: red;
 }
 
 
