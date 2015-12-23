@@ -101,7 +101,7 @@ a {
 
 .post-link:nth-child(5n+4):hover {
   background: red;
-  color: inherit;
+  color: white;
   border: 2px outset white;
 }
 
